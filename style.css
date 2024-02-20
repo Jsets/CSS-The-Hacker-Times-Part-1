@@ -46,10 +46,15 @@ li{
     color: rgba(128, 128, 128, 0.199)
 }
 
+nav a{
+    color: #777;
+    text-decoration: none;
+}
+
 .newspaper-container{
-    margin: 0px auto 0px auto;
+    margin: 100px auto;
     width: 700px;
-    height: 700px
+    height: auto;
     border-radius: 10px;
     box-shadow: 2px 2px 1px #ddd;
     padding: 50px;
